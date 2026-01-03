@@ -1,4 +1,5 @@
 ## Hi, I'm Vitor 👋
+Junior full-stack developer with a background in business and hospitality.
 I enjoy building practical web applications and continuously improving my skills.
 <!--
 **vitor-de-castro/vitor-de-castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,3 +31,8 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+
+🌱 Currently working on:
+- Full-stack Ruby on Rails applications
+- Improving frontend skills with JavaScript
