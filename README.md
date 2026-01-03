@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Vitor 👋
+I enjoy building practical web applications and continuously improving my skills.
 <!--
 **vitor-de-castro/vitor-de-castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
