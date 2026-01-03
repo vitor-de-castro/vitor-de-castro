@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 🌱 Currently working on:
 - Full-stack Ruby on Rails applications
-- Improving frontend skills with JavaScript
+- Improving frontend skills with JavaScript and exploring React.
