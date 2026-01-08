@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
+Le Wagon final group project:
+https://www.side-b.app/
+
 🌱 Currently working on:
 - Full-stack Ruby on Rails applications
 - Improving frontend skills with JavaScript and exploring React.
