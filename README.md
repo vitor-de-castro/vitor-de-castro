@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 Le Wagon final group project:
-https://www.side-b.app/
+side-b.app
 
 🌱 Currently working on:
 - Full-stack Ruby on Rails applications
