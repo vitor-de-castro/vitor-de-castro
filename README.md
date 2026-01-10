@@ -33,11 +33,15 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
-Le Wagon final group project:
+## 🚀 Featured Projects
+**Side-B** Le Wagon final group project:
 www.side-b.app
+- Vinyl collector web app built with Ruby on Rails  
+- Authentication, CRUD, PostgreSQL, team collaboration 
 
-5 day group project:
+**AI News** 5-day group project:
 www.ai-news.live
+- AI-powered news platform built as an MVP 
 
 🌱 Currently working on:
 - Full-stack Ruby on Rails applications
