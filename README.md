@@ -43,6 +43,6 @@ www.side-b.app
 www.ai-news.live
 - AI-powered news platform built as an MVP 
 
-🌱 Currently working on:
+## 🌱 Currently working on:
 - Full-stack Ruby on Rails applications
 - Improving frontend skills with JavaScript and exploring React.
