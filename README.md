@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 Le Wagon final group project:
 www.side-b.app
 
+5 day group project:
+www.ai-news.live
+
 🌱 Currently working on:
 - Full-stack Ruby on Rails applications
 - Improving frontend skills with JavaScript and exploring React.
