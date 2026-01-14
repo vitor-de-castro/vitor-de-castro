@@ -1,4 +1,4 @@
-## Hi, I'm Vitor 👋
+## Hi, I'm Vitor.
 Junior full-stack developer with a background in business and hospitality.
 I enjoy building practical web applications and continuously improving my skills.
 <!--
