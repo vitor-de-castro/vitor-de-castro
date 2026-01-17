@@ -1,6 +1,6 @@
 ## Hi, I'm Vitor.
 Junior full-stack developer with a background in business and hospitality.
-I enjoy building practical web applications and continuously improving my skills. Check out my portfolio: vitor-de-castro.github.io
+I enjoy building practical web applications and continuously improving my skills.
 <!--
 **vitor-de-castro/vitor-de-castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
