@@ -44,5 +44,5 @@ www.ai-news.live
 - AI-powered news platform built as an MVP 
 
 ## 🌱 Currently working on:
-- Full-stack Ruby on Rails applications
+- Full-stack Ruby on Rails applications : personal finance app
 - Improving frontend skills with JavaScript and exploring React.
