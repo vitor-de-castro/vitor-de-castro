@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 **Side-B** - Le Wagon final group project:
 www.side-b.app
 - Vinyl collector web app built with Ruby on Rails  
-- AI Assistance, Authentication, CRUD, PostgreSQL, team collaboration 
+- AI Assistance, REST API, CRUD, PostgreSQL, team collaboration 
 
 **AI News** - 5-day group project:
 www.ai-news.live
 - AI-powered news platform built as an MVP 
 
 ## 🌱 Currently working on:
-- Full-stack Ruby on Rails applications : Networth - personal finance app
+- Full-stack Ruby on Rails applications : **Networth** - personal finance app: www.networth.cv
 - Improving frontend skills with JavaScript and exploring React.
