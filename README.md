@@ -41,6 +41,7 @@ www.side-b.app
 **AI News** - 5-day group project:
 www.ai-news.live
 - AI-powered news platform built as an MVP with Ruby on Rails
+- REST API, PostgreSQL, CRUD
 
 ## 🌱 Currently working on:
 - Full-stack Ruby on Rails applications : **Networth** - personal finance app: www.networth.cv
