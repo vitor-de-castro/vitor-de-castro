@@ -46,4 +46,4 @@ www.ai-news.live
 
 ## 🌱 Currently working on:
 - Full-stack Ruby on Rails applications : **Networth** - personal finance app: www.networth.cv
-- Improving frontend skills with JavaScript and exploring React.
+- Improving frontend skills with JavaScript, exploring React and Python.
