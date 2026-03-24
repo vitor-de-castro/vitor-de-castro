@@ -1,4 +1,4 @@
-## Hi, I'm Vitor.
+## Vitor de Castro
 Full-stack developer using Ruby on Rails with a background in business and hospitality. I enjoy building practical web apps and continuously improving my skills.
 🚀 Currently building **Networth** — a personal finance app integrating external APIs and AI features.
 <!--
