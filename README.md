@@ -53,3 +53,9 @@ www.ai-news.live
 ## 🌱 Currently working on:
 - Adding features and upgrading the app **Networth**.
 - Improving frontend skills with JavaScript, exploring React and Python.
+
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/vitor-castro-a279b8151/
+- Portfolio: https://vitor-de-castro.github.io/
