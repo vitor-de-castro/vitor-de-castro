@@ -34,6 +34,12 @@ Here are some ideas to get you started:
 
 
 ## 🚀 Featured Projects
+
+**Networth** - Personal Portfolio Tracker
+www.networth.cv
+- Full-stack Rails app with real-time market data, AI, and multi-currency support.
+- Real-time stock & crypto tracking and an AI-powered financial assistant.
+
 **Side-B** - Le Wagon final group project:
 www.side-b.app
 - Vinyl collector web app built with Ruby on Rails  
@@ -45,5 +51,5 @@ www.ai-news.live
 - REST API, PostgreSQL, CRUD
 
 ## 🌱 Currently working on:
-- Full-stack Ruby on Rails applications : **Networth** - personal finance app: www.networth.cv
+- Adding features and upgrading the app **Networth**.
 - Improving frontend skills with JavaScript, exploring React and Python.
