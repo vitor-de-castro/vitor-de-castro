@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Stimulus](https://img.shields.io/badge/Stimulus-000000?style=flat&logo=stimulus&logoColor=4FD1C5)
+![Turbo](https://img.shields.io/badge/Turbo-000000?style=flat&logo=hotwire&logoColor=FF4500)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
