@@ -61,6 +61,7 @@ www.ai-news.live
 ## 🌱 Currently working on:
 - Adding features and upgrading the app **Networth**.
 - Improving frontend skills with JavaScript, exploring React and Next.js.
+- A brand new project and improving my tech stack.
 
 
 ## 📫 Contact
