@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 **Frameworks & Libraries**  
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Stimulus](https://img.shields.io/badge/Stimulus-000000?style=flat&logo=stimulus&logoColor=4FD1C5)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Turbo](https://img.shields.io/badge/Turbo-000000?style=flat&logo=hotwire&logoColor=FF4500)
 
 **Databases**  
