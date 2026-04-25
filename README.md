@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 **Frameworks & Libraries**  
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Stimulus](https://img.shields.io/badge/Stimulus-000000?style=flat&logo=stimulus&logoColor=4FD1C5)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
