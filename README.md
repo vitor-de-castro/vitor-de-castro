@@ -59,7 +59,7 @@ www.side-b.app
 - Vinyl collector web app built with Ruby on Rails  
 - AI Assistance, REST API, CRUD, PostgreSQL, team collaboration 
 
-**Underrated** - Sorare Football Card Analytics  [underrated.live](https://underrated.live)
+**Underrated** - Sorare Football Card Analytics:  [underrated.live](https://underrated.live)
 - Real-time Sorare market data via authenticated GraphQL API
 - Live auction countdown timers and AI-powered market analyst
 
