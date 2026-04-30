@@ -1,6 +1,6 @@
 ## Vitor de Castro
 Full-stack developer using Ruby on Rails with a background in business and hospitality. I enjoy building practical web apps and continuously improving my skills.
-🚀 Currently building **Networth** — a personal finance app integrating external APIs and AI features.
+🚀 Currently building **Underrated** — a Sorare football card analytics platform with real-time market data and AI-powered analysis.
 <!--
 **vitor-de-castro/vitor-de-castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -58,6 +58,11 @@ www.networth.cv
 www.side-b.app
 - Vinyl collector web app built with Ruby on Rails  
 - AI Assistance, REST API, CRUD, PostgreSQL, team collaboration 
+
+**Underrated** - Sorare Football Card Analytics  
+[underrated.live](https://underrated.live)
+- Real-time Sorare market data via authenticated GraphQL API
+- Live auction countdown timers and AI-powered market analyst
 
 **AI News** - 5-day group project:
 www.ai-news.live
