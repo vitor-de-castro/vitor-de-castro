@@ -49,29 +49,25 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects
 
-**Networth** - Personal Portfolio Tracker
-www.networth.cv
+**Networth** - Personal Portfolio Tracker: [networth.cv](https://www.networth.cv)
 - Full-stack Rails app with real-time market data, AI, and multi-currency support.
 - Real-time stock & crypto tracking and an AI-powered financial assistant.
 
-**Side-B** - Le Wagon final group project:
-www.side-b.app
+**Side-B** - Le Wagon final group project: [side-b.app](https://www.side-b.app)
 - Vinyl collector web app built with Ruby on Rails  
 - AI Assistance, REST API, CRUD, PostgreSQL, team collaboration 
 
-**Underrated** - Sorare Football Card Analytics:  [underrated.live](https://underrated.live)
+**Underrated** - Sorare Football Card Analytics: [underrated.live](https://underrated.live)
 - Real-time Sorare market data via authenticated GraphQL API
 - Live auction countdown timers and AI-powered market analyst
 
-**AI News** - 5-day group project:
-www.ai-news.live
+**AI News** - 5-day group project: [ai-news.live](https://www.ai-news.live)
 - AI-powered news platform built as an MVP with Ruby on Rails
 - REST API, PostgreSQL, CRUD
 
 ## 🌱 Currently working on:
 - Adding features and upgrading the app **Networth**.
 - Improving frontend skills with JavaScript, exploring React and Next.js.
-- A brand new project and improving my tech stack.
 
 
 ## 📫 Contact
