@@ -72,5 +72,5 @@ Here are some ideas to get you started:
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/vitor-castro-a279b8151/
+- LinkedIn: https://www.linkedin.com/in/vitor-de-castro-a279b8151/
 - Portfolio: https://vitor-de-castro.github.io/
