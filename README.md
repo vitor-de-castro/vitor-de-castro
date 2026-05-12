@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 - AI Assistance, REST API, CRUD, PostgreSQL, team collaboration 
 
 **Underrated** - Sorare Football Card Analytics: [underrated.live](https://underrated.live)
-- Real-time Sorare market data via authenticated GraphQL API
+- Real-time live auction data via authenticated Sorare GraphQL API
 - Live auction countdown timers and AI-powered market analyst
 
 **AI News** - 5-day group project: [ai-news.live](https://www.ai-news.live)
