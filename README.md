@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 - REST API, PostgreSQL, CRUD
 
 ## 🌱 Currently working on:
-- Adding features and upgrading the app **Networth** and **Underrated**.
+- Adding features and upgrading the apps **Networth** and **Underrated**.
 - Deepening frontend skills with JavaScript, React and Next.js.
 
 
