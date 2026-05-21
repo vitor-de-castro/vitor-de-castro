@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-
 **Frameworks & Libraries**  
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -38,6 +37,7 @@ Here are some ideas to get you started:
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 **Tools & Others**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 **Underrated** - Sorare Football Card Analytics: [underrated.live](https://underrated.live)
 - Real-time live auction data via authenticated Sorare GraphQL API
-- Live auction countdown timers and AI-powered market analyst
+- Live auction countdown timers, FPL stats integration and AI-powered market analyst
 
 **AI News** - 5-day group project: [ai-news.live](https://www.ai-news.live)
 - AI-powered news platform built as an MVP with Ruby on Rails
