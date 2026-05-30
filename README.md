@@ -1,7 +1,7 @@
 ## Vitor de Castro
 Full-stack developer using Ruby on Rails with a background in business and hospitality. I enjoy building practical web apps and continuously improving my skills.
 
-🚀 Currently building **Underrated** — a Sorare football card analytics platform with real-time market data and AI-powered analysis.
+🚀 Currently upgrading **Underrated** — a Sorare football card analytics platform with real-time market data and AI-powered analysis.
 <!--
 **vitor-de-castro/vitor-de-castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
