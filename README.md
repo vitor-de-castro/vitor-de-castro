@@ -1,5 +1,5 @@
 ## Vitor de Castro
-Full-stack developer using Ruby on Rails with a background in business and hospitality. I enjoy building practical web apps and continuously improving my skills.
+Full-stack developer using Ruby on Rails and Next.js with a background in business and hospitality. I enjoy building practical web apps and continuously improving my skills.
 
 🚀 Currently upgrading **Underrated** — a Sorare football card analytics platform with real-time market data and AI-powered analysis.
 <!--
