@@ -67,6 +67,11 @@ Here are some ideas to get you started:
 - AI-powered news platform built as an MVP with Ruby on Rails
 - REST API, PostgreSQL, CRUD
 
+## 🔧 Open Source
+
+**Kaminari** — [PR #1151](https://github.com/kaminari/kaminari/pull/1151)
+- Replaced deprecated `remote:` option with `data: {turbo:}` across pagination templates to fix Rails 7.2 compatibility
+
 ## 🌱 Currently working on:
 - Maintaining and improving **Networth** and **Underrated**.
 - Deepening frontend skills with JavaScript, React and Next.js.
