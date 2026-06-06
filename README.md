@@ -1,7 +1,7 @@
 ## Vitor de Castro
 Full-stack developer using Ruby on Rails and Next.js with a background in business and hospitality. I enjoy building practical web apps and continuously improving my skills.
 
-🚀 Currently upgrading **Underrated** — a Sorare football card analytics platform with real-time market data and AI-powered analysis.
+🔍 Currently open to full-stack developer roles 
 <!--
 **vitor-de-castro/vitor-de-castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,20 +55,20 @@ Here are some ideas to get you started:
 - Full-stack Rails app with real-time market data, AI, and multi-currency support.
 - Real-time stock & crypto tracking and an AI-powered financial assistant.
 
-**Side-B** - Le Wagon final group project: [side-b.app](https://www.side-b.app)
-- Vinyl collector web app built with Ruby on Rails  
-- AI Assistance, REST API, CRUD, PostgreSQL, team collaboration 
-
 **Underrated** - Sorare Football Card Analytics: [underrated.live](https://underrated.live)
 - Real-time live auction data via authenticated Sorare GraphQL API
 - Live auction countdown timers, FPL stats integration and AI-powered market analyst
+
+**Side-B** - Le Wagon final group project: [side-b.app](https://www.side-b.app)
+- Vinyl collector web app built with Ruby on Rails  
+- AI Assistance, REST API, CRUD, PostgreSQL, team collaboration 
 
 **AI News** - 5-day group project: [ai-news.live](https://www.ai-news.live)
 - AI-powered news platform built as an MVP with Ruby on Rails
 - REST API, PostgreSQL, CRUD
 
 ## 🌱 Currently working on:
-- Adding features and upgrading the apps **Networth** and **Underrated**.
+- Maintaining and improving **Networth** and **Underrated**.
 - Deepening frontend skills with JavaScript, React and Next.js.
 
 
