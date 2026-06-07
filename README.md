@@ -69,8 +69,9 @@ Here are some ideas to get you started:
 
 ## 🔧 Open Source
 
-**Kaminari** — [PR #1151](https://github.com/kaminari/kaminari/pull/1151)
-- Replaced deprecated `remote:` option with `data: {turbo:}` across pagination templates to fix Rails 7.2 compatibility
+**Kaminari** — Rails pagination gem
+- [PR #1151](https://github.com/kaminari/kaminari/pull/1151) — Replaced deprecated `remote:` option with `data: {turbo:}` for Rails 7.2 compatibility
+- [PR #1152](https://github.com/kaminari/kaminari/pull/1152) — Fixed `format:` option being ignored in `page_url_for`
 
 ## 🌱 Currently working on:
 - Maintaining and improving **Networth** and **Underrated**.
