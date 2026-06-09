@@ -74,6 +74,9 @@ Here are some ideas to get you started:
 - [PR #1152](https://github.com/kaminari/kaminari/pull/1152) — Fixed `format:` option being ignored in `page_url_for`
 - [PR #1153](https://github.com/kaminari/kaminari/pull/1153) — Updated README to document Turbo support
 
+**ruby-openai** — OpenAI API Ruby client
+- [PR #645](https://github.com/alexrudall/ruby-openai/pull/645) — Improved exception messages to include API error details from response body
+
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitor-de-castro&theme=dark&background=000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=a0a0a0)](https://github.com/vitor-de-castro)
