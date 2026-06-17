@@ -90,3 +90,4 @@ Here are some ideas to get you started:
 
 - LinkedIn: https://www.linkedin.com/in/vitor-de-castro-a279b8151/
 - Portfolio: https://vitor-de-castro.github.io/
+- [Malt](https://www.malt.fr/profile/vitordecastro)
