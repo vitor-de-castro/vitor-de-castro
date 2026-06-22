@@ -1,7 +1,7 @@
 ## Vitor de Castro
 Full-stack developer using Ruby on Rails and Next.js with a background in business and hospitality. I enjoy building practical web apps and continuously improving my skills.
 
-🔍 Currently open to full-stack developer roles 
+🔍 Currently open to full-stack developer roles and open to missions via Malt
 <!--
 **vitor-de-castro/vitor-de-castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
