@@ -81,4 +81,4 @@ Full-stack developer using Ruby on Rails and Next.js with a background in busine
 
 - LinkedIn: https://www.linkedin.com/in/vitor-de-castro-a279b8151/
 - Portfolio: https://vitor-de-castro.github.io/
-- Freelance missions: [Malt](https://www.malt.fr/profile/vitordecastro)
+- Freelance missions: [Malt](https://www.malt.fr/profile/vitordecastro) · [Upwork](https://www.upwork.com/freelancers/~01f79d5f7572346f92)
