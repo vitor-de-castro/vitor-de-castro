@@ -68,6 +68,9 @@ Full-stack developer using Ruby on Rails and Next.js with a background in busine
 **ruby-openai** — OpenAI API Ruby client
 - [PR #645](https://github.com/alexrudall/ruby-openai/pull/645) — Improved exception messages to include API error details from response body
 
+**simple_form** — Rails form builder gem
+- [PR #1871](https://github.com/heartcombo/simple_form/pull/1871) — Clarified README documentation on browser_validations default behavior
+
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitor-de-castro&theme=dark&background=000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=a0a0a0)](https://github.com/vitor-de-castro)
