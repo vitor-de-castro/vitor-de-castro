@@ -1,7 +1,7 @@
 ## Vitor de Castro
 Full-stack developer using Ruby on Rails and Next.js with a background in business and hospitality. I enjoy building practical web apps and continuously improving my skills.
 
-🔍 Currently open to full-stack developer roles and missions via Malt
+🔍 Currently open to full-stack developer roles and missions via Malt or Upwork
 
 ## 🛠️ Tech Stack
 
