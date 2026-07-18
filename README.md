@@ -79,6 +79,7 @@ Full-stack developer using Ruby on Rails and Next.js with a background in busine
 - Maintaining and improving **Networth** and **Underrated**.
 - Exploring Docker, CI/CD pipelines, and testing practices.
 - New private projects for clients.
+- Coding everyday.
 
 
 ## 📫 Contact
