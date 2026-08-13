@@ -63,7 +63,6 @@ Full-stack developer using Ruby on Rails and Next.js with a background in busine
 **Kaminari** — Rails pagination gem
 - [PR #1151](https://github.com/kaminari/kaminari/pull/1151) — Replaced deprecated `remote:` option with `data: {turbo:}` for Rails 7.2 compatibility
 - [PR #1152](https://github.com/kaminari/kaminari/pull/1152) — Fixed `format:` option being ignored in `page_url_for`
-- [PR #1153](https://github.com/kaminari/kaminari/pull/1153) — Updated README to document Turbo support
 
 **ruby-openai** — OpenAI API Ruby client
 - [PR #645](https://github.com/alexrudall/ruby-openai/pull/645) — Improved exception messages to include API error details from response body
