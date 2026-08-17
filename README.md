@@ -37,6 +37,7 @@ Full-stack developer using Ruby on Rails and Next.js with a background in busine
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Performance_Optimization-Lighthouse-F44B21?style=flat&logo=googlechrome&logoColor=white)
 
 
 ## 🚀 Featured Projects
