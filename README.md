@@ -78,7 +78,7 @@ Full-stack developer using Ruby on Rails and Next.js with a background in busine
 ## 🌱 Currently working on:
 - Maintaining and improving **Networth** and **Underrated**.
 - New private projects for clients.
-- Web performance optimization
+- Web performance optimization and accessibility.
 - Coding everyday.
 
 
