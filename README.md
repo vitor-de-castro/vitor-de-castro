@@ -79,7 +79,7 @@ Full-stack developer using Ruby on Rails and Next.js with a background in busine
 
 - New private projects for clients.
 - Web performance optimization and accessibility.
-- Coding everyday.
+- Coding and learning everyday.
 
 
 ## 📫 Contact
