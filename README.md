@@ -79,7 +79,7 @@ Currently open to full-stack developer roles and missions via Malt or Upwork
 
 - New private projects for clients.
 - Web performance optimization and accessibility.
-- Coding and solving problems, everyday.
+- Coding and solving problems.
 
 
 ## 📫 Contact
