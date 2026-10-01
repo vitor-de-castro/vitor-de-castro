@@ -43,9 +43,9 @@ Currently open to full-stack developer roles and missions via Malt or Upwork
 ## 🚀 Featured Projects
 
 **Networth** - Personal Portfolio Tracker: [networth.cv](https://www.networth.cv)
-- Full-stack Rails app with real-time market data, AI, and multi-currency support.
-- Real-time stock & crypto tracking and an AI-powered financial assistant.
-- Dockerized for local development; automated testing via GitHub Actions CI/CD.
+- Full-stack Rails app with real-time market data, AI, and multi-currency support
+- Real-time stock & crypto tracking and an AI-powered financial assistant
+- Dockerized for local development; automated testing via GitHub Actions CI/CD
 
 **Underrated** - Sorare Football Card Analytics: [underrated.live](https://underrated.live)
 - Real-time live auction data via authenticated Sorare GraphQL API
