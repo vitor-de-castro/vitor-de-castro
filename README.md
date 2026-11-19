@@ -36,6 +36,7 @@ Currently open to full-stack developer roles and missions via Malt or Upwork.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Lighthouse](https://img.shields.io/badge/Performance_Optimization-Lighthouse-F44B21?style=flat&logo=googlechrome&logoColor=white)
 
